@@ -7,3 +7,7 @@ steps:
   - command: "./test2.sh"
     label: "test2"
     env:
+
+  - command: "./test3.sh"
+    label: "test3"
+    env:
