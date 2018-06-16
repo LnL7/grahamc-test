@@ -1,0 +1,9 @@
+steps:
+  - command: "./test.sh"
+    label: "test"
+    env:
+      TEST: "test"
+
+  - command: "./test2.sh"
+    label: "test2"
+    env:
